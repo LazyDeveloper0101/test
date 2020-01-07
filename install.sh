@@ -1,1 +1,1 @@
-apk install python
+sudo apt-get update
